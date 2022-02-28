@@ -1,0 +1,21 @@
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Form1.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.MDIParent1.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Properties.Resources.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet access 103.csproj.GenerateResource.Cache
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\bin\Debug\Projet access 103.exe
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\bin\Debug\Projet access 103.pdb
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet access 103.exe
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet access 103.pdb
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fproduit.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.BD.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fclient.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fvente.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fproduit_Vendu.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fsituation_Stock.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\bin\Debug\Projet access 103.exe.config
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet access 103.csprojResolveAssemblyReference.cache
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fstatistique_vente.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fvente_client.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fetat_Produit.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fetat_vente_client.resources
+D:\TDI 1 2019 2020\c#\Projet access 103\Projet access 103\obj\x86\Debug\Projet_access_103.Fgraphique.resources
